@@ -25,8 +25,8 @@ import UseWindowResizeTest from "./components/use-window-resize/test";
 function App() {
   return (
     <div className="App">
-      {/* Accordian component */}
-      {/* <Accordian/> */}
+      {/*Accordian component*/}
+      {<Accordian/> }
       {/* Random color component */}
       {/* <RandomColor/> */}
 
